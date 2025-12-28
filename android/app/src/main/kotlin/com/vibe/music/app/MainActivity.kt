@@ -1,4 +1,4 @@
-package com.vibe.music.vibe_music
+package com.vibe.music.app
 
 import io.flutter.embedding.android.FlutterActivity
 
